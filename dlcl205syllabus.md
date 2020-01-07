@@ -346,6 +346,8 @@ Thanks to Miriam Posner (DH 150: Selfies, Snapchat, & Cyberbullies, <http://mir
 
 Thanks to Aimée Morrison for inspiring the accommodation statement.
 
+Thanks to Shawn Graham, whose [DH Unplugged](https://playdhcu5000.github.io/dh-unplugged/) game originally gave me the idea for the DH RPG.
+
 Thanks to John Ayliff , Katia Bowers, James Cummings, Karin Dalziel, Jessica Dusasult, Rikk Mulligan, and Alex Wermer-Colan for their feedback on the first draft of the DH RPG.
 
 Thanks to Mark Algee-Hewitt, Amanda Wilson Bergado, Melissa Hosek, and Camille Villa for their intrepid play-testing of the DH RPG.
