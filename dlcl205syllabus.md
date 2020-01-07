@@ -1,5 +1,7 @@
 Project Management and Ethical Collaboration for Humanists
+
 Quinn Dombrowski, DLCL ATS
+
 Winter 2020
 
 **Overview**
@@ -76,9 +78,7 @@ We'll cover the kinds of people who are often involved with digital humanities p
 
 - [Postdoctoral Laborers' Bill of Rights](https://hcommons.org/deposits/item/hc:26741/) (manifesto)
 
-- "[Special Report: Digital Humanities in Libraries](https://americanlibrariesmagazine.org/2016/01/04/special-report-digital-humanities-libraries/)" (American Libraries magazine, vendor-supported survey for general library audience)
-
-o If you find this topic interesting and want more perspectives from people actually doing DH work in libraries, see [The Role of Libraries in Digital Humanities](https://dlis.hypotheses.org/1605) (summary of literature, blog post)
+- "[Special Report: Digital Humanities in Libraries](https://americanlibrariesmagazine.org/2016/01/04/special-report-digital-humanities-libraries/)" (American Libraries magazine, vendor-supported survey for general library audience); if you find this topic interesting and want more perspectives from people actually doing DH work in libraries, see [The Role of Libraries in Digital Humanities](https://dlis.hypotheses.org/1605) (summary of literature, blog post)
 
 - Megan Senseney, Eleanor Dickson Koehl, and Leanne Nay. "Collaboration, Consultation, or Transaction: Modes of Team Research in Humanities Scholarship and Strategies for Library Engagement". C&RL Vol. 80, No. 6, 2019. <https://crl.acrl.org/index.php/crl/article/view/23528/30837>  (Read sections on "In vivo Characterizations of Multiperson Humanities Research" and Table 1)
 
@@ -250,7 +250,7 @@ How do you start to figure out how much a project is going to cost? While there 
 
 *Simulation:* We'll play months 3 and 4 (August -- September) of the second round of the simulation.
 
-**Friday, February 14:** Project white paper due
+**Friday, February 14:** Simulation write-up / white paper due
 
 **Tuesday, February 18: Project management vs. managing people**
 
@@ -358,268 +358,31 @@ With contract grading, individual assignments get feedback and comments, but are
 
 **A-grade contract parameters at different credit levels**
 
-|
-
-**Assignment**
-
- |
-
-**5**
-
- |
-
-**4**
-
- |
-
-**3**
-
- |
-|
-
-Missable classes
-
- |
-
-2
-
- |
-
-3
-
- |
-
-3
-
- |
-|
-
-Short simulation reflections
-
- |
-
-6-8
-
- |
-
-5-7
-
- |
-
-4-6
-
- |
-|
-
-Simulation white paper / write-up
-
- |
-
-2,500 words
-
- |
-
-2,000 words
-
- |
-
-1,500 words
-
- |
-|
-
-Final grant proposal
-
- |
-
-10 grant sections
-
- |
-
-8 grant sections
-
- |
-
-6 grant sections
-
- |
+| Assignment | 5 | 4 | 3 |
+|-----------------------------------|-------------------|------------------|------------------|
+| Missable classes | 2 | 3 | 3 |
+| Short simulation reflections | 6-8 | 5-7 | 4-6 |
+| Simulation white paper / write-up | 2,500 words | 2,000 words | 1,500 words |
+| Final grant proposal | 10 grant sections | 8 grant sections | 6 grant sections |
 
 **B-grade contract parameters at different credit levels**
 
-|
-
-**Assignment**
-
- |
-
-**5**
-
- |
-
-**4**
-
- |
-
-**3**
-
- |
-|
-
-Missable classes
-
- |
-
-3
-
- |
-
-4
-
- |
-
-4
-
- |
-|
-
-Short simulation reflections
-
- |
-
-5-7
-
- |
-
-4-6
-
- |
-
-3-5
-
- |
-|
-
-Simulation white paper / write-up
-
- |
-
-2,500 words
-
- |
-
-2,000 words
-
- |
-
-1,500 words
-
- |
-|
-
-Final grant proposal
-
- |
-
-10 grant sections
-
- |
-
-8 grant sections
-
- |
-
-6 grant sections
-
- |
+| Assignment | 5 | 4 | 3 |
+|-----------------------------------|-------------------|------------------|------------------|
+| Missable classes | 3 | 4 | 4 |
+| Short simulation reflections | 5-7 | 4-6 | 3-5 |
+| Simulation white paper / write-up | 2,500 words | 2,000 words | 1,500 words |
+| Final grant proposal | 10 grant sections | 8 grant sections | 6 grant sections |
 
 *Note: Accept/revise decisions for simulation white paper / write-up and final grant proposal will be made taking into account the contract grade level (i.e. if you've done "B-quality" work, you won't be asked to make revisions to get it up to "A-quality".)*
 
 **C-grade contract parameters at different credit levels**
 
-|
-
-**Assignment**
-
- |
-
-**5**
-
- |
-
-**4**
-
- |
-
-**3**
-
- |
-|
-
-Missable classes
-
- |
-
-4
-
- |
-
-5
-
- |
-
-5
-
- |
-|
-
-Short simulation reflections
-
- |
-
-4-6
-
- |
-
-3-5
-
- |
-
-2-4
-
- |
-|
-
-Simulation white paper / write-up
-
- |
-
-2,500 words
-
- |
-
-2,000 words
-
- |
-
-1,500 words
-
- |
-|
-
-Final grant proposal
-
- |
-
-10 grant sections
-
- |
-
-8 grant sections
-
- |
-
-6 grant sections
-
- |
+| Assignment | 5 | 4 | 3 |
+|-----------------------------------|-------------------|------------------|------------------|
+| Missable classes | 4 | 5 | 5 |
+| Short simulation reflections | 4-6 | 3-5 | 2-4 |
+| Simulation white paper / write-up | 2,500 words | 2,000 words | 1,500 words |
+| Final grant proposal | 10 grant sections | 8 grant sections | 6 grant sections |
 
 *Note: Accept/revise decisions for simulation white paper / write-up and final grant proposal will be made taking into account the contract grade level (i.e. if you've done "C-quality" work, you won't be asked to make revisions to get it up to "A-quality".)*
