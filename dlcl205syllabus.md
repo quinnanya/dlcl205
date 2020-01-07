@@ -218,7 +218,7 @@ We'll talk about how digital humanities projects intersect with tenure and promo
 
 - Ryan Cordell. "A DH Dossier". 2018. <https://ryancordell.org/personal/dh-dossier> + "Statements". 2017. <https://ryancordell.org/statements>
 
-- Katherine D. Harris. "Explaining Digital Humanities in Promotion Documents". 2012. <http://journalofdigitalhumanities.org/1-4/explaining-digital-humanities-in-promotion-documents-by-katherine-harris/>
+- Katherine D. Harris. "Explaining Digital Humanities in Promotion Documents". 2012. <http://journalofdigitalhumanities.org/1-4/explaining-digital-humanities-in-promotion-documents-by-katherine-harris/> and follow-up "[Moving up the Professional Ladder – Promotion Narrative for Full Professor](https://triproftri.wordpress.com/2018/01/12/moving-up-professional-ladder/)"
 
 *Simulation:* We'll talk about how the first round of the simulation went, and what changes we'd make next time. We'll discuss what you still feel like you need to learn more about for it to go better, and adjust the syllabus accordingly. We'll also talk about the project white paper assignment.
 
