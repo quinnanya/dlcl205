@@ -13,6 +13,7 @@ The [course syllabus](dlcl205syllabus.md) will probably be revised somewhat as t
 A simulation of a year in the life of a DH project -- done in tabletop RPG style (think *Dungeons and Dragons*) -- is a cornerstone of this course, but could also be adapted for other courses, workshops, and circumstances. All materials (handouts, templates, skill guides, etc.) will be posted here as they're used in class, and will be revised throughout the quarter in response to issues that arise during gameplay.
 
 - [One-page handout](getting-started-dhrpg.md) for getting started with the DH RPG
+- Draft of [skills guide for the DH RPG](https://docs.google.com/document/d/1la_wHuvMsdE__CL5JsAWAhPpkDav12ZJ4nmJq9YLV0Y/edit) (Google Drive)
 
 ## Other materials
 The [course advertisement poster](dlcl205-poster.pdf).
