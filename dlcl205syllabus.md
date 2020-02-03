@@ -134,9 +134,13 @@ Digital humanities projects are labor-intensive undertakings. We'll talk about t
 
 - Haley Di Pressi, Stephanie Gorman, Miriam Posner, Raphael Sasayama, and Tori Schmitt, with contributions from Roderic Crooks, Megan Driscoll, Amy Earhart, Spencer Keralis, Tiffany Naiman, and Todd Presner; [Student Collaborator's Bill of Rights](https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/) (2015)
 
+- Tara Robertson. "[Digitization: just because you can, doesn't mean you should](http://tararobertson.ca/2016/oob/)" and "[Update on On Our Backs and Reveal Digital](http://tararobertson.ca/2016/oob-update/)"
+
 - T.L. Cowan and Jasmine Rault. "[Onlining queer acts: Digital research ethics and caring for risky archives](https://www.tandfonline.com/doi/full/10.1080/0740770X.2018.1473985)". *Women & Performance: a Journal of Feminist Theory*. Vol. 28, 2018, issue 2.
 
 - Amy E. Earhart. "[Can We Trust the University? Collaborations with Historically Exploited Cultural Communities](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/c449610c-af71-4373-9359-0eb138a15d51#ch20)". *Bodies of Information: Intersectional Feminism and Digital Humanities*. Ed. Elizabeth Losh and Jacqueline Wernimont. 2018.
+
+
 
 *Simulation:* We'll play months 4 and 5 (September-October).
 
@@ -156,7 +160,6 @@ People are more than a means to completing a project. Depending on your role and
 
 - Fobazi Ettarh. "[Vocational Awe and Librarianship: The Lies We Tell Ourselves](http://www.inthelibrarywiththeleadpipe.org/2018/vocational-awe/)". 2018.
 
-- Excerpts from UC Berkeley "KEYS -- Keys to Your Supervisory Success" handouts (Canvas)
 
 *Simulation:* We'll play months 6 and 7 (November-December).
 
