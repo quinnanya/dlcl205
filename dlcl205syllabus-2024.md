@@ -302,6 +302,8 @@ We'll talk about where we find ourselves now, approaching spring 2024. How is th
 
 - Sarah E. Smith. "[Response to Student Evaluations, Sarah E. Smith](https://www.qmwproject.com/post/response-to-student-evaluations-sarah-e-smith)". July 26, 2021.
 
+- Kathleen King. "[To Teach, To Grow, To Garden](https://scholarslab.lib.virginia.edu/blog/to-teach-to-grow-to-garden/)". January 10, 2024.
+
 ## Week 10: Wrap-up
 
 ### Tuesday, March 12, 2024: Wrap-Up
