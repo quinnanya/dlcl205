@@ -78,6 +78,8 @@ We'll talk about some of the reasons why people collaborate, the value of charte
 
 - Rebecca Munson, "[How to Endure: Cancer in the Time of Pandemic](https://shxperienced.blogspot.com/2020/03/how-to-endure-cancer-in-time-of-pandemic.html)" (blog post; March 28, 2020)
 
+- Data-Sitters Club, "[DSC 13: Goodbye, Friends, Goodbye](https://datasittersclub.github.io/site/dsc13.html)" (May 18, 2022)
+
 - Jennifer Guiliano & Simon Appleford, "[Charters, Agreements, and Handshake Deals](http://devdh.org/files/dhwi/pdfs/CharterAgreements.pdf)" slides. DevDH.
 
 - Rebecca Sutton Koeser, "[Document ALL the things!](https://cdh.princeton.edu/updates/2019/08/12/document-all-things/)", on Princeton CDH's project charters. (Read the post and take a look at the Princeton Prosody Archive charter, warranty, and long-term support agreement.)
