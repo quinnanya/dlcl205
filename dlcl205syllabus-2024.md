@@ -114,6 +114,8 @@ We'll look at the organizational structure of Stanford and talk about different 
 
 - Henry Farrell, [Who really runs the university (illustrated with muppets)](https://www.programmablemutter.com/p/who-really-runs-the-university-illustrated). (blog post, August 8, 2023)
 
+- David M. Perry and Matthew Gabriele, [University budgets are moral documents](https://buttondown.email/ModernMedieval/archive/university-budgets-are-moral-documents/). (*Modern Medieval*, January 23, 2024)
+
 - John Lombardi, excerpt from How Universities Work, 2013.
 
 - Robert Scott, excerpt from How University Boards Work: A Guide for Trustees, Officers, and Leaders in Higher Education, 2018.
