@@ -116,11 +116,11 @@ We'll look at the organizational structure of Stanford and talk about different 
 
 - David M. Perry and Matthew Gabriele, [University budgets are moral documents](https://buttondown.email/ModernMedieval/archive/university-budgets-are-moral-documents/). (*Modern Medieval*, January 23, 2024)
 
-- John Lombardi, excerpt from How Universities Work, 2013.
+- John Lombardi, "Ch. 6: Research", "Ch. 7: Faculty" from *How Universities Work*, 2013.
 
-- Robert Scott, excerpt from How University Boards Work: A Guide for Trustees, Officers, and Leaders in Higher Education, 2018.
+- Robert Scott, "Ch 5: Strategic Leadership" from *How University Boards Work: A Guide for Trustees, Officers, and Leaders in Higher Education*, 2018.
 
-- Brian Mitchell and W. Joseph King, excerpt from How to Run a College: A Practical Guide for Trustees, Faculty, Administrators, and Policymakers, 2018.
+- Brian Mitchell and W. Joseph King, "Ch. 1: Governance and Management", "Ch. 2: Finance" from *How to Run a College: A Practical Guide for Trustees, Faculty, Administrators, and Policymakers*, 2018.
 
 ## Week 4: Visible and Invisible Labor
 
