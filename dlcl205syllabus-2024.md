@@ -196,6 +196,8 @@ We'll discuss the DH RPG project and consider what would change in a different s
 
 ### Tuesday, February 13, 2024: How Do We Pay for All This?
 
+**Assignment due**: "Pleasures Story", p. 41 in [Finding Your Purpose workbook](https://halperta.com/shalperta%20press/purpose/).
+
 We'll talk about how to come up with a budget for a project, and how budgets influence project plans (and vice versa). We'll play through September and October in the simulation.
 
 - Gregory Lord, Angel David Nieves, and Janet Simons. [DHQuest](http://dhquest.dhinitiative.org/) (Play through the game once)
@@ -209,8 +211,6 @@ We'll talk about how to come up with a budget for a project, and how budgets inf
 - Spencer Keralis, "[Disrupting Labor in Digital Humanities; or, The Classroom is Not Your Crowd](https://library.oapen.org/bitstream/handle/20.500.12657/25400/1004695.pdf?sequence=1#page=274)". Disrupting the Digital Humanities, 2018.
 
 ### Thursday, February 15, 2024: Another Perspective on DH Project Management
-
-**Assignment due**: "Pleasures Story", p. 41 in [Finding Your Purpose workbook](https://halperta.com/shalperta%20press/purpose/).
 
 The Slavic AATSEEL conference, which Quinn and a couple students will be attending, takes place starting today. There'll be an optional coffee chat opportunity with Alix Keener, the Digital Scholarship Librarian / CESTA ATS in lieu of class.
 
@@ -278,7 +278,7 @@ We'll discuss what happens when the plan you've developed and budgeted for encou
 
 ### Tuesday, March 5, 2024: Projects End
 
-**Assignment due:** Data management plan for your project
+**Assignment due:** Sustainability plan for your project
 
 We'll talk about what goes into wrapping up a project successfully, and circumstances where you have to settle for a less ideal conclusion. We'll also cover data management plans as one component of that wrap-up.
 
@@ -311,8 +311,6 @@ We'll talk about where we find ourselves now, approaching spring 2024. How is th
 ## Week 10: Wrap-up
 
 ### Tuesday, March 12, 2024: Wrap-Up
-
-**Assignment due:** Sustainability plan for your project
 
 It's always good project management to plan in some buffer time because things often take longer than we plan. This is that day, for catching up on anything we didn't get to in the discussion or simulation.
 
